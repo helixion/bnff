@@ -7,7 +7,7 @@
 # SETUP 
 1) In your wordpress admin, create a category (for example: Features) <br />
 2) Create a new post (post -> add new). Input desired data in to the body, ticket link and excerpt fields, upload and select a featured image<b> (Make sure to choose your category correctly).</b> <br />
-3) Create a page with the exact name of the category you want specific posts (movies) to show (if the name of the page doesn't match the category, nothing will show up), and make sure you select the template "Movie List". <br /> <a href="https://youtu.be/ZyZ7q2khYO4?t=1m25s">(Click here for a demostration)</a>
+3) Create a page with the exact name of the category you want specific posts (movies) to show (if the name of the page doesn't match the category, nothing will show up), and make sure you select the template "Movie List". <a href="https://youtu.be/ZyZ7q2khYO4?t=1m25s">(Click here for a demostration)</a><br /> 
 4) <b>PROFIT!</b>
 
 
