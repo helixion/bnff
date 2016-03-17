@@ -6,8 +6,8 @@
 
 # SETUP 
 1) In your wordpress admin, create a category (for example: Features) <br />
-2) Create a new post (post -> add new). Input desired data in to the body, ticket link and excerpt fields, upload and select a featured image.<b>(Make sure to choose your category correctly).</b> <br />
-3) Create a page with the exact name of the category you want specific posts to show (if the name doesn't match the category, nothing will show up).up <br />
+2) Create a new post (post -> add new). Input desired data in to the body, ticket link and excerpt fields, upload and select a featured image<b> (Make sure to choose your category correctly).</b> <br />
+3) Create a page with the exact name of the category you want specific posts to show (if the name doesn't match the category, nothing will show up). <br />
 4) <b>PROFIT!</b>
 
 
