@@ -1,4 +1,3 @@
-# Awesome, you've just made a new workspace!
 # INSTALLATION
 <ol>
    <li>Backup your functions.php, styles.css and anything else you feel is needed </li>
