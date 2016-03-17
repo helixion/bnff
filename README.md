@@ -13,5 +13,5 @@
 
 
 <a href="https://www.youtube.com/watch?v=eDctQPg07cA">DEMO</a>
-
+<p>In hindsight, I could of just created a custom category template, but this way is fine.</p>
 <p>I'll keep making adjustments to this, just make sure to make backups.</p>
