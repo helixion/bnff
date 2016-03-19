@@ -1,7 +1,15 @@
 # INSTALLATION
 <ol>
-   <li>Backup your functions.php, styles.css and anything else you feel is needed </li>
-   <li>Copy over the new functions.php, styles.css and page_movies.php file in to the root of your bizlight theme folder (path: wp-content/themes/bizlight)</li>
+   <li>Download & Install the wordpress plugin <a href="http://www.advancedcustomfields.com/">Advanced Custom Fields</a>
+      <ul>
+         <li>Navigate to Tools » Import and select WordPress</li>
+         <li>Install WP import plugin if prompted</li>
+         <li>Upload and import your exported .xml file</li>
+         <li>Select your user and ignore Import Attachments</li>
+      </ul>
+   </li>
+   <li>Backup your /template-parts/content-single.php, styles.css and anything else you feel is needed.</li>
+   <li>Copy over the new template-parts folder, styles.css and page_movies.php file in to the root of your bizlight theme folder (path: wp-content/themes/bizlight)</li>
 </ol>
 
 # SETUP 
