@@ -13,7 +13,10 @@ Normalizing styles have been helped along thanks to the fine work of
 Nicolas Gallagher and Jonathan Neal http://necolas.github.com/normalize.css/
 */
 /*=============CUSTOM CSS===========*/
-
+.page-numbers.current {
+    background-color: #028484;
+    color: #fff !important;
+}
 
 .mv {
   width: 100% !important;
@@ -48,21 +51,16 @@ ul.mv-buttons > li {
     margin-right: 20px;
 }
 
-.mv-list {
-	list-style: none;
-}
-
-ul.mv-list > li {
-  padding: 10px;
-  margin-bottom: 10px;
-  border: 1px solid rgba(51, 51, 51, 0.1);
-  display: inline-block;
+.mv-article {
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid rgba(51, 51, 51, 0.1);
+    display: inline-block;
 }
 
 @media screen and (max-width: 960px) {
     .mv-buttons {
         float: none;
-        list-style: none;
     }
 }
 /*======================================
