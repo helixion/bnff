@@ -20,4 +20,3 @@
 
 <p>In hindsight, I could of just created a custom category template, but this way is fine.</p>
 <p>I'll keep making adjustments to this, just make sure to make backups.</p>
-<p>NOTE: I'll most likely use http://www.advancedcustomfields.com/ instead of messing around with functions.php</p>
