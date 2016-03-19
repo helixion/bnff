@@ -44,7 +44,7 @@ $postList = new WP_Query($args);
                   <article id="post-<?php the_ID(); ?>" class="mv-article">
                     <?php if (has_post_thumbnail()) : ?>
                       <img class="mv-picture" src="<?php echo wp_get_attachment_url( get_post_thumbnail_id() ) ?>" />
-                    <?php endif; ?>+
+                    <?php endif; ?>
                       <div class="mv-body">
                         <ul class="mv-buttons">
                             <li><a class="fasc-button fasc-size-medium fasc-type-popout fasc-rounded-medium fasc-ico-before dashicons-location-alt mv-venue-btn" href="http://thebnff.com/bnff-venues/">Venues</a></li>
